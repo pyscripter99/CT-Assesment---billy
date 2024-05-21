@@ -98,3 +98,7 @@ input::placeholder {
     height: 260px;
     object-fit: cover;
 }
+
+.index .card {
+    width: 40%;
+}
