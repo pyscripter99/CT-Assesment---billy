@@ -85,3 +85,16 @@ input::placeholder {
     height: 90vh;
     place-items: center;
 }
+
+.console-collection {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+
+.console-collection svg,
+.console-collection img {
+    width: 260px;
+    height: 260px;
+    object-fit: cover;
+}
